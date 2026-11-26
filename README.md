@@ -11,10 +11,11 @@ A página completa está em `index.html` (HTML, CSS, JavaScript e imagens incorp
 - Seções de apresentação, benefícios e oferta de R$ 29,90
 - Demonstração gratuita com cinco perguntas e respostas explicadas
 - Layout responsivo com identidade azul e dourada
-- Botão do checkout propositalmente **sem link ativo**: é necessário desenvolver o produto, configurar pagamento e substituir `CHECKOUT_URL` em `index.html` antes de vender.
+- Botão **QUERO COMEÇAR O DESAFIO** vinculado ao checkout Cakto: https://pay.cakto.com.br/8k5ue3w_1375734
+- Os botões **Experimentar grátis** continuam levando ao quiz demonstrativo.
 
 ## Publicação
 
 Hospedagem: Vercel. Diretório raiz: `/`. Framework: estático (sem build).
 
-> **Atenção:** a demonstração gratuita não significa que os 100 desafios e materiais prometidos na oferta já estejam disponíveis. Finalize o produto antes de ativar pagamentos.
+> **Atenção:** o checkout já está ativo e pode receber pagamentos. Confirme que os 100 desafios e os materiais anunciados estão disponíveis para entrega e que a Cakto está configurada para conceder o acesso após a compra. A demonstração gratuita sozinha não corresponde ao produto completo.
